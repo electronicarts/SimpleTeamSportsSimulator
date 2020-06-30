@@ -124,13 +124,14 @@ A sample action input:
 * Yunqi Zhao (EA Digital Platform)
 * Igor Borovikov (EA Digital Platform)
 * Jiachen Yang (Georgia Institute of Technology)
+* Ahmad Beirami (EA Digital Platform)
 
 
 ## Citation
 Please consider citing the repository if you use our code:
 ```latex
 @misc{sts2_ea_2020,
-    author       = {Caedmon Somers, Jason Rupert, Yunqi Zhao, Igor Borovikov, Jiachen Yang},
+    author       = {Caedmon Somers, Jason Rupert, Yunqi Zhao, Igor Borovikov, Jiachen Yang, Ahmad Beirami},
     title        = {{Simple Team Sports Simulator (STS2)}},
     month        = feb,
     year         = 2020,
